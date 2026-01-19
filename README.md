@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @jieddev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning cybersecurity, game development, and web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hello there! 👋
 
-<!---
-jieddev/jieddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Jiedel, a 4th year BSIT college student at Eastern Visayas State University in the Philippines.
+
+I enjoy reading e-books and developing software apps and tools that can boost my productivity, enhance time and self-management, or improve my skill set.
+
+Currently aiming to enhance my web development skills while looking forward in game design and software engineering.
+
+I am still currently improving my main tech stack skills but I do have familiarity with programming languages such as Javascript, Dart, and Python and software tools such as Git, VS Code, Ibis, K6, Slack, and more
+
+
