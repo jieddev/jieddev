@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am Jiedel, a 4th year BSIT college student at Eastern Visayas State University in the Philippines.
+I am Jiedel, an IT Student in the Philippines and is passionate in programming, software engineering, and game development.
 
 I enjoy reading e-books and developing software apps and tools that can boost my productivity, enhance time and self-management, or improve my skill set.
 
