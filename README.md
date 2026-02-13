@@ -20,8 +20,8 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <style>
 .img {
-  width: 28px !important;  /* Adjust to desired size, e.g., 48px, 80px */
-  height: 28px !important;
+  width: 28px;  /* Adjust to desired size, e.g., 48px, 80px */
+  height: 28px;
 }
 </style>
 
