@@ -17,8 +17,8 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <style>
 .skills img {
-  width: 64px !important;  /* Adjust to desired size, e.g., 48px, 80px */
-  height: 64px !important;
+  width: 28px !important;  /* Adjust to desired size, e.g., 48px, 80px */
+  height: 28px !important;
 }
 </style>
 
