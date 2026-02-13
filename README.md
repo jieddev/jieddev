@@ -19,7 +19,7 @@ Currently aiming to enhance my web development skills while looking forward in g
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
 
 <style>
-.skills img {
+.img {
   width: 28px !important;  /* Adjust to desired size, e.g., 48px, 80px */
   height: 28px !important;
 }
