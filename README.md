@@ -6,7 +6,7 @@ I enjoy reading e-books and developing software apps and tools that can boost my
 
 Currently aiming to enhance my web development skills while looking forward in game design and software engineering.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=5)](https://skillicons.dev)
 
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
 
