@@ -24,7 +24,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <i class="devicon-html5-plain colored" style="font-size: 10px"></i>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 20px, height: 20px"/>
 
 
 
