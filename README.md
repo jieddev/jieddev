@@ -10,7 +10,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <br>
 
-## Tech Stack
+### Tech Stack
 
 <br>
 
