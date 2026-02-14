@@ -8,7 +8,7 @@ Currently aiming to enhance my web development skills while looking forward in g
 
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
 
-<p align="end">
+<!-- <p align="end">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r&theme=dark&perline=5&size=10" />
   </a>
@@ -18,8 +18,13 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,supabase&theme=dark&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,autocad,fastapi&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,autocad,fastapi&theme=dark&perline=5)](https://skillicons.dev) -->
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<i class="devicon-html5-plain colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 
 
