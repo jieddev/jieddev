@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Welcome! 👋
 
 I am Jiedel, an IT Student in the Philippines and is passionate in programming, software engineering, and game development.
 
