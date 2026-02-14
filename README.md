@@ -14,17 +14,17 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <br>
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r&theme=dark&perline=20" />
   </a>
 </p>
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,firebase,supabase&theme=dark&perline=20" />
   </a>
 </p>
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,fastapi&theme=dark&perline=20" />
   </a>
