@@ -26,7 +26,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 20px, height: 20px"/> -->
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' style="width: 20px, height: 20px" />
 
 
 
