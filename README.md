@@ -22,7 +22,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<i class="devicon-html5-plain colored"></i>
+<i class="devicon-html5-plain colored" style="font-size: 10px"></i>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
