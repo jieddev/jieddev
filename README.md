@@ -20,11 +20,13 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,autocad,fastapi&theme=dark&perline=5)](https://skillicons.dev) -->
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<!-- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <i class="devicon-html5-plain colored" style="font-size: 10px"></i>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 20px, height: 20px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 20px, height: 20px"/> -->
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
 
 
 
