@@ -10,7 +10,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r&theme=dark&perline=5&size=20" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r&theme=dark&perline=20" />
   </a>
 </p>
 <p align="center">
