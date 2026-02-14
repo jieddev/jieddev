@@ -8,6 +8,12 @@ Currently aiming to enhance my web development skills while looking forward in g
 
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
 
+<br>
+
+## Tech Stack
+
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r&theme=dark&perline=20" />
