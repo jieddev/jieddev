@@ -12,7 +12,6 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 ### Tech Stack
 
-<br>
 
 <p align="start">
   <a href="https://skillicons.dev">
