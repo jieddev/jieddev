@@ -20,7 +20,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,supabase&theme=dark&perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,supabase,react&theme=dark&perline=20" />
   </a>
 </p>
 <p align="start">
