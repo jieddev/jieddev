@@ -9,6 +9,9 @@ Currently aiming to enhance my web development skills while looking forward in g
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
 
 <br>
+![Codewars](https://www.codewars.com/users/jieddev/badges/large)
+
+<br>
 
 ### Tech Stack
 
