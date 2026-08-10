@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I am Jiedel, an IT graduate in the Philippines and is passionate in programming, software engineering, and game development.
+I am Jiedel, an IT graduate and is passionate in programming, software engineering, and game development.
 
 I enjoy reading e-books and developing software apps and tools that can boost my productivity, enhance time and self-management, or improve my skill set.
 
