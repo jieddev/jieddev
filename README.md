@@ -12,9 +12,9 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 
 ---
 
-<br>
+<div align="center">
 <img src="https://www.codewars.com/users/jieddev/badges/large" alt="Codewars Badge">
-<br>
+<div>
 
 <div align="center"><h3> MAIN TECH STACK </h3></div>
 
