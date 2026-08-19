@@ -1,30 +1,34 @@
-### Welcome! 👋
+<h2 align="center"> <b>Welcome!</b>👋 I'm Jiedel</h2>
 
-I am Jiedel, an IT graduate and is passionate in programming, software engineering, and game development.
+<div align="center" >
+I am an IT graduate and is passionate in programming, software engineering, and game development.
 
-I enjoy reading e-books and developing software apps and tools that can boost my productivity, enhance time and self-management, or improve my skill set.
+I enjoy reading e-books and developing software apps and tools that can <strong>boost my productivity</strong>, enhance time and self-management, or improve my skill set.
 
 Currently aiming to enhance my web development skills while looking forward in game design and software engineering.
 
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
+</div>
+
+---
 
 <br>
 <img src="https://www.codewars.com/users/jieddev/badges/large" alt="Codewars Badge">
 <br>
 
-### Tech Stack
+<div align="center"><h3> MAIN TECH STACK </h3></div>
 
 
-<p align="start">
+<!-- <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r,ruby,rails&theme=dark&perline=20" />
   </a>
 </p>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase&theme=dark&perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase&theme=dark&perline=10" />
   </a>
-</p>
+</p> -->
 
 
 
