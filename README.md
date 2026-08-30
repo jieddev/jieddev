@@ -19,16 +19,11 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 <div align="center"><h3> MAIN TECH STACK </h3></div>
 
 
-<!-- <p align="start">
+<div align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,mysql,php,r,ruby,rails&theme=dark&perline=20" />
+    <img src="https://skillicons.dev/icons?i=js,dart,flutter,mysql,rails,firebase,git,github&theme=dark&perline=20" />
   </a>
-</p>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase&theme=dark&perline=10" />
-  </a>
-</p> -->
+</div> 
 
 
 
