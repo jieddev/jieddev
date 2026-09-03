@@ -16,7 +16,7 @@ I am still currently improving my main tech stack, problem-solving skills, and b
 <img src="https://www.codewars.com/users/jieddev/badges/large" alt="Codewars Badge">
 <div>
 
-<div align="center"><h3> MAIN TECH STACK </h3></div>
+<div align="start"><h3> MAIN TECH STACK </h3></div>
 
 
 <div align="start">
