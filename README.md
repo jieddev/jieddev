@@ -1,11 +1,9 @@
 <h2 align="center"> <b>Welcome!</b>👋 I'm Jiedel</h2>
 
 <div align="center" >
-I am an IT graduate and is passionate in programming, software engineering, and game development.
+A Recent BSIT graduate passionate in programming, software engineering, and game development.
 
-I enjoy reading e-books and developing software apps and tools that can <strong>boost my productivity</strong>, enhance time and self-management, or improve my skill set.
-
-Currently aiming to enhance my web development skills while looking forward in game design and software engineering.
+I enjoy reading e-books and developing software apps and tools that boost my productivity, enhance time and self-management, and improve my skill set.
 
 I am still currently improving my main tech stack, problem-solving skills, and building projects that I will soon pin below.
 </div>
